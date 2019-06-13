@@ -1,0 +1,7 @@
+C:\Users\АдылкановМ.CORP\source\repos\Practice07.06\Practice07.06\bin\Debug\Practice07.06.exe.config
+C:\Users\АдылкановМ.CORP\source\repos\Practice07.06\Practice07.06\bin\Debug\Practice07.06.exe
+C:\Users\АдылкановМ.CORP\source\repos\Practice07.06\Practice07.06\bin\Debug\Practice07.06.pdb
+C:\Users\АдылкановМ.CORP\source\repos\Practice07.06\Practice07.06\obj\Debug\Practice07.06.csprojAssemblyReference.cache
+C:\Users\АдылкановМ.CORP\source\repos\Practice07.06\Practice07.06\obj\Debug\Practice07.06.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ.CORP\source\repos\Practice07.06\Practice07.06\obj\Debug\Practice07.06.exe
+C:\Users\АдылкановМ.CORP\source\repos\Practice07.06\Practice07.06\obj\Debug\Practice07.06.pdb
